@@ -19,3 +19,33 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-vid
 #EXTINF:-1 tvg-id="channeli.bd" tvg-logo="https://images.seeklogo.com/logo-png/42/2/channel-i-logo-png_seeklogo-427745.png" group-title="Entertainment",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1181200.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/2/dbc-news-logo-png_seeklogo-626101.png" group-title="News",DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728-audio_113582_eng=113200-video=442000.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/2/deepto-tv-logo-png_seeklogo-513994.png" group-title="Entertainment",Deepto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=442000.m3u8
+
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.googleusercontent.com%2FxVn0mcnonPHvhY8RuUwjBYunSXJ5mqDdO9LyZODZbbSiXUhlaPm8lJdQt9KB3NRKMXL1VIaOj2M%3Ds900-c-k-c0x00ffffff-no-rj&f=1&nofb=1&ipt=ee64e7a8e64a33955d7609ef5e84785192b0264fdde3bbe5d2aadde0bd479424" group-title="Entertainment",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1181200.m3u8
+
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.vLKeIckNSyCbyq2UwVQdzgHaGd%3Fr%3D0%26pid%3DApi&f=1&ipt=406e3eef415be58c85aefc923b2e3c565ede9f5b64cba000cd9d4b189b40fabd" group-title="Entertainment",Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1181200.m3u8
+
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F3%2F39%2FMaasranga_Television_Logo.jpg&f=1&nofb=1&ipt=bf9590477397f5344d966ac67b99461a2d65277854b34188a1c9c350c52d4278" group-title="Entertainment",Maasranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/29/1/canal-sony-entretenimiento-logo-png_seeklogo-297249.png" group-title="Entertainment",Sony Kal
+https://wurlsonypicturestv.global.transmit.live/us-east-1-b/manifest/68deeb1c0238cda82df543dd/491ac038-3a24-46df-8e5a-b25a90753450/v1/spt_sonykal_1/lg_us/latest/main/hls/video-avc1.4d4029-mp4a.40.2-1.m3u8?h=216&playlistUri=https%253A%252F%252Fc6ea76a2.wurl.com%252Fv1%252Fspt_sonykal_1%252Flg_us%252FV00000001%252F0%252FHLS%252Fplaylist_512k.m3u8&sessionStart=1781276747425&streamPath=v1%2Fspt_sonykal_1%2Flg_us%2Flatest%2Fmain%2Fhls%2Fplaylist.m3u8&uid=__USER_ID__&w=384
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/2/btv-bangladesh-television-logo-png_seeklogo-459657.png" group-title="Entertainment",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/20/1/cbs-news-logo-png_seeklogo-206703.png" group-title="News",CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_21.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Flimrise Anime
+https://dvu7aia8rjlfm.cloudfront.net/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/1/fox-sports-logo-png_seeklogo-315883.png" group-title="Entertainment",FOX Sports
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports480p.m3u8
+
