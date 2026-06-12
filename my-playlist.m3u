@@ -52,3 +52,5 @@ https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports480p.m3u8
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2018/02/48-hours-cbs-season-31-renewal-canceled-renewed-e1518736505938.jpg" group-title="Entertainment",48 Hours
 https://dai.google.com/linear/hls/pa/event/JUr94WL2QAiVpGNHY5n5dA/stream/6ca247a3-1e76-4495-84ec-472b3f7cd5ee:BRU/variant/a97ad99ac95d39fb1b9c73291c347dc1/bandwidth/1513283.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQFX5ec9tx-HlA/company-logo_200_200/company-logo_200_200/0/1630641620387?e=2147483647&v=beta&t=SgORNdJf_vsJhg503n0M3aT0V5CCt00rtgb7s-_ZBpw" group-title="Entertainment",Documentary+ International
+https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/215c4094-5e5b-46a1-a238-9dd2c457ac66/2.m3u8
